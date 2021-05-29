@@ -1,0 +1,9 @@
+Package: ajbbotech.com.storefeatures
+Name: Store Features
+Depends: mobilesubstrate, ws.hbang.common
+Version: 1.3
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBboCydia
+Author: aJBboCydia
+Section: Tweaks
